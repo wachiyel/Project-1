@@ -6,8 +6,6 @@ myFiles=~/myFiles
 # ensure dir exists
 mkdir -p "$myFiles"
 
-# prefix
-
 myName="Lucy"
 fileNumberTracker="$myFiles/.fileNumber"
 
