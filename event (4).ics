@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTEND:20240215T204000Z
+UID:65ce35492c700
+DTSTAMP:20240215T160113Z
+SUMMARY:2024 AWSome Day Online Conference | Public Sector: Modernize citizen services and student success with AWS 
+LOCATION:https://awsomeday-namer.virtual.awsevents.com/media/1_uc65yhci
+DESCRIPTION:Event:Public Sector: Modernize citizen services and student success with AWS \n\nDescription: The AWS Cloud helps public sector organizations and institutions not only become more agile, efficient, and secure but also unlocks new use cases for disaster recovery, analytics, and more.In this session, join us to learn about the benefits of cloud for public sector organizations and institutions, use cases, and cloud essential services to modernize citizen services and enhance student success.\n\nLink: https://awsomeday-namer.virtual.awsevents.com/media/1_uc65yhci
+DTSTART:20240215T200000Z
+
+END:VEVENT
+END:VCALENDAR
